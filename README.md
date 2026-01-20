@@ -1,38 +1,88 @@
-# dmsp
-សារពើភណ្ឌ
-ជំរឿនស្ថិតិសាលារៀនចំណេះទូទៅសាធារណៈ
+## ជំរឿនស្ថិតិសាលារៀនចំណេះទូទៅសាធារណៈ
 ### ឆ្នាំសិក្សា ២០២៥-២០២៦ (ប__ឋមសិក្សា)
-
 <table cellpadding="0" cellspacing="0">
-<thead>
 	<tbody>
-    <tr>
-     <td colspan="5">*ប្រកាសលេខ</td>
-     <td colspan="15">1121 អយក.ប្រក </td><td>ចុះថ្ងៃទី :</td><td colspan="8">10 August 2020</td></tr><tr><td colspan="33"></td></tr></thead></tbody></table>
-			
-### *សូមអានសេចក្តីណែនាំមុននឹងបំពេញ
-			
-#### *សូមផ្ញើទៅការិយាល័យអប់រំ យុវជន និងកីឡានៃរដ្ឋបាលស្រុក/ក្រុងវិញមុនថ្ងៃទី ១០-១១-២០២៥
-
-<table>
-  <tbody>
-    <thead>
-      <tr>
-			<td rowspan="2">លេខកូដសាលារៀន៖</td><td rowspan="2">01030401017</td>
-<td colspan="4">ប្រភេទសាលារៀន</td><td colspan="5">កម្រិតសាលាកុមារមេត្រី</td><td rowspan="2" colspan="3">ឧបត្ថមគាំទ្រដោយ៖</td><td rowspan="2"></td><td colspan="2" rowspan="3">UTM</td><td colspan="6">48N</td>
-</tr>
-   <tr>
-     <td colspan="4">សាលារៀនចំណេះទូទៅ</td>
-     <td colspan="5">កម្រិតមធ្យម</td><td colspan="3">328181</td><td colspan="3">1515125</td>
-<tr><td colspan="6">សាលាអនុវត្តកម្មវិធីផ្តល់អាហារតាមសាលារៀន៖</td><td colspan="5">ទេ</td><td content editable="true">ផ្សេងៗ...</td>
-    </tr>
-  </tbody>
- </thead>
+		<tr>
+			<td colspan="3">
+			<p>*ប្រកាសលេខ</p>
+			</td>
+			<td colspan="5">
+			<p>1121 អយក.ប្រក</p>
+			</td>
+			<td colspan="26">
+			<p>10 August 2020</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="34">
+			<p>*សូមអានសេចក្តីណែនាំមុននឹងបំពេញ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="24">
+			<p>*សូមផ្ញើទៅការិយាល័យអប់រំ យុវជន និងកីឡានៃរដ្ឋបាលស្រុក/ក្រុងវិញមុនថ្ងៃទី ១០-១១-២០២៥</p>
+			</td>
+			<td colspan="5">
+			<p>លេខកូដសាលារៀន៖</p>
+			</td>
+			<td colspan="5">
+			<p>01030401017</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+			<p>ប្រភេទសាលារៀន</p>
+			</td>
+			<td colspan="7">
+			<p>សាលារៀនចំណេះទូទៅ</p>
+			</td>
+			<td colspan="5">
+			<p>កម្រិតសាលាកុមារមេត្រី</p>
+			</td>
+			<td colspan="7">
+			<p>កម្រិតមធ្យម</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2" rowspan="2">
+			<p>UTM</p>
+			</td>
+			<td>
+			<p>x</p>
+			</td>
+			<td colspan="2" rowspan="2">
+			<p>48N</p>
+			</td>
+			<td colspan="5">
+			<p>328181</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>សាលាអនុវត្តកម្មវិធីផ្តល់អាហារតាមសាលារៀន៖</p>
+			</td>
+			<td colspan="3">
+			<p>ទេ</p>
+			</td>
+			<td colspan="3">
+			<p>ឧបត្ថមគាំទ្រដោយ៖</p>
+			</td>
+			<td colspan="7">
+			<p>ផ្សេងៗ&hellip;.......</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>y</p>
+			</td>
+			<td colspan="5">
+			<p>1515125</p>
+			</td>
+		</tr>
+	</tbody>
 </table>
-
-<div>
-<p>&nbsp;</p>
-
 ### ១. អត្តសញ្ញាណ និងព័ត៌មានសាវតារ
 <table>
   <tbody>
